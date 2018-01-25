@@ -1,3 +1,11 @@
+.DS_Store
+Thumbs.db
+
+# builds
+build/
+deployableJar/
+out/
+
 # Compiled class file
 *.class
 
@@ -24,6 +32,11 @@ hs_err_pid*
 # intellij
 .idea
 *.iml
+*.ipr
+*.iws
+.project
+.settings
+.classpath
 
 # gradle
 .gradle
